@@ -1,5 +1,10 @@
-# ===Node Modules===
+# System folder
+.DS_Store
+# Node modules
 node_modules/
 
-# ===Dist Folder===
+# Dist Folder
 dist/
+
+# Parcel .cache folder
+.cache/
